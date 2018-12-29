@@ -1,4 +1,4 @@
-Moodle multiple-choice question type with 'false2' penalty for selected incorrect choice
+Moodle multiple-choice question type with 'false' penalty for selected incorrect choice
 ----------------------------------------------------------------------------------------
 
 This is a multiple-choice, multiple-response question type that integrates a 'false' penalty for any selected
