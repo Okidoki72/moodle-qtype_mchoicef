@@ -58,19 +58,7 @@ Before using this questiontype, teachers must really think if this grading is wh
 
 ### Installation
 
-This question type is still not available on https://moodle.org/plugins/
-
-#### Installation Using Git
-
-To install using git, type this command in the
-root of your Moodle install:
-
-    git clone git://github.com/Okidoki72/moodle-qtype_mchoicef.git question/type/mchoicef
-    echo '/question/type/mchoicef' >> .git/info/exclude
-
-#### Installation From Downloaded zip file
-
-Alternatively, download the zip from:
+Download the zip from:
   https://github.com/Okidoki72/moodle-qtype_mchoicef/archive/master.zip
 
-unzip it into the question/type folder, and then rename the new folder to mchoicef.
+In Moodle, go to [Site administration > Plugins > Install plugins], drag an drop the zip file and click the 'Install plugin from the ZIP file' button, and follow the instructions.
